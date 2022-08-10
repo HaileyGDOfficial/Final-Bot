@@ -1,8 +1,8 @@
 {
     "setup": {
-        "token": "token",
-        "server": "wyliegdps02.7m.pl",
-        "prefix": "w?",
+        "token": "MTAwNjg4Mjk0MzY0MzQzOTE0NQ.Gcs0UK.v-UtyNXYlAoZG5lqoUH0Fa3-baTpqr419g-aAo",
+        "server": "haileygdps2.7m.pl",
+        "prefix": "h!",
         "commandColour": "FF0000",
         "customStatus": "Being coded",
         "cronEnabled": true,
